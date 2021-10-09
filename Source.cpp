@@ -9,6 +9,7 @@ int main() {
 	buildWordList("Documents/Sources/injury", list, '.');
 	
 	wordSalad(list, parserPhrases, matches);
+	stackCreation(matches, parserPhrases);
 	/*
 	redundancyClean(); //remove redundant phrases
 	partition(); //split node relations into single branch paths

@@ -168,7 +168,7 @@ void wordSalad(vector<vector<string>> list, vector<vector<string>> parser, vecto
 		}
 	}
 	//This should be redone so that there's only one level of complex functions
-	stackCreation(matches, parser);
+	//stackCreation(matches, parser);
 }
 
 /*Keep pushing words onto a stack until a condition is met
@@ -189,12 +189,10 @@ void stackCreation(vector<vector<string>>& sentences, vector<vector<string>>& pa
 	buildWordList("Documents/Parsing/stop", stop);
 	buildWordList("Documents/Parsing/conjunctional", con);
 
-	//display(sentences);
 	for (int i = 0; i < sentences.size(); i++) {
 		tempMat = partition(sentences[i], con, stop);
 		matrix.insert(matrix.end(), tempMat.begin(), tempMat.end());
 	}
-	//display(matrix);
 	for (int i = 0; i < matrix.size(); i++) {
 		transformToSingle(matrix[i], stop);
 	}
