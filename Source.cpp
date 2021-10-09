@@ -9,8 +9,10 @@ int main() {
 	buildWordList("Documents/Sources/injury", list, '.');
 	
 	wordSalad(list, parserPhrases, matches);
+	redundancyClean(matches);
 	stackCreation(matches, parserPhrases);
 	/*
+	wordSalad(); //find matching parsePhrases
 	redundancyClean(); //remove redundant phrases
 	partition(); //split node relations into single branch paths
 	transformToSingle(); //Turns phrases with more than two nodes into simple l/r phrases

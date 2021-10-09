@@ -162,13 +162,10 @@ void wordSalad(vector<vector<string>> list, vector<vector<string>> parser, vecto
 				}
 			}
 			if (flag) {
-				//parserAssociation.push_back(*parseIt);
 				matches.push_back(*listIt);
 			}
 		}
 	}
-	//This should be redone so that there's only one level of complex functions
-	//stackCreation(matches, parser);
 }
 
 /*Keep pushing words onto a stack until a condition is met
@@ -183,7 +180,7 @@ void stackCreation(vector<vector<string>>& sentences, vector<vector<string>>& pa
 	vector<int> andPos, affectPos;
 	int a, split;
 
-	redundancyClean(sentences);
+	//redundancyClean(sentences);
 
 	buildWordList("Documents/Parsing/ignore", ignore);
 	buildWordList("Documents/Parsing/stop", stop);
@@ -200,7 +197,8 @@ void stackCreation(vector<vector<string>>& sentences, vector<vector<string>>& pa
 	tempMat = matrix;
 	matrix.clear();
 	sentences = tempMat;
-	//display(sentences);
+
+	//Everything below this line should be kept in stackCreation. Everything above should be put elsewhere
 	for (int i = 0; i < sentences.size(); i++) {
 		for (int g = 0; g < sentences[i].size(); g++) {
 			if (!present(sentences[i][g], ignore)) {
