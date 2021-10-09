@@ -1,0 +1,12 @@
+relationship between [X] and [Y]
+the number of [X] and [Y]
+[X] predictors of [Y]
+role of [X] by which [Y] is mediated
+an effect of [X] on [Y]
+[X] affects [Y]
+risks of [X] other than [Y] reduce
+[X] are protective against [Y]
+[X] is related to [Y]
+[X] possible relationship between [Y] and [Z]
+if the [X] by [Y] has the potential to change [W]
+[X] an effect on [Y]

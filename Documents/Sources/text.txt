@@ -1,0 +1,13 @@
+The main mediating variable is believed to be proprioception (balance and muscle-contraction coordination) during the game. 
+Starting at the top of the figure, the coach affects the team-motivation (including aggressiveness), 
+which affects both the probability of previous injury and the player's compliance with warm-up exercises. 
+A player's genetics affects their fitness level (along with the coach's fitness program) and whether there are any 
+inherent connective tissue disorders (which leads to tissue weakness and injury). Both connectivetissuedisorders and 
+fitness level affect neuromuscular fatigue, which independently affects proprioception during the game and the probability of injury. 
+Finally, if the sport is a contactsport, the probability of previousinjury is greater, as is the probability of minor bruises during 
+the game that would affect proprioception. Although other causal models are also possible, we will use this one for illustrative purposes 
+at this time. For this example, we have decided to include neuromuscular fatigue (Z1) and tissue weakness (Z2) in the statistical model. 
+Step #1 is to ensure that these covariates are not descendants of (i.e. directly or indirectly caused by) warm-up exercises. 
+Step 2 is illustrated in 2b. The open circle (previous injury, Z3) represents the only non-ancestor 
+(an ancestor is direct or indirect cause of another variable) of warm up exercises (X), neuromuscular fatigue (Z1), 
+tissue weakness (Z2) and injury (Outcome)

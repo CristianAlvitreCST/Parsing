@@ -1,0 +1,6 @@
+[X] affects [Y]
+effect of [X] on the [Y]
+associated with [X] and [Y]
+[X] affects both [[Y] and [Z]]
+both [X] and [Y] affect [Z]
+[X], probability of [Y] is greater

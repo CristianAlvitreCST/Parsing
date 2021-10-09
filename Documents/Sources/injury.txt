@@ -1,0 +1,14 @@
+a-b. Diagrammatic equivalent of the 6-step process to determine if one obtains an unbiased estimate of the exposure of interest (X) on the Outcome by including a particular subset of covariates (see text for details of the specific steps).
+In this example, we are interested in minimizing the bias when estimating the causal effect of warming up on the risk of injury.
+In figure 2a, a possible causal diagram of variables that are associated with warming up (X) and injury (outcome) are shown.
+The main mediating variable is believed to be proprioception (balance and muscle-contraction coordination) during the game.
+Starting at the top of the figure, the coach affects the team motivation (including aggressiveness), which affects both the probability of previous injury and the player's compliance with warm-up exercises.
+A player's genetics affects their fitness level (along with the coach's fitness program) and whether there are any inherent connective tissue disorders (which leads to tissue weakness and injury).
+Both connective tissue disorders and fitness level affect neuromuscular fatigue, which independently affects proprioception during the game and the probability of injury.
+Finally, if the sport is a contact sport, the probability of previous injury is greater, as is the probability of minor bruises during the game that would affect proprioception.
+Although other causal models are also possible, we will use this one for illustrative purposes at this time.
+For this example, we have decided to include neuromuscular fatigue (Z1) and tissue weakness (Z2) in the statistical model.
+Step #1 is to ensure that these covariates are not descendants of (i.e. directly or indirectly caused by) warm-up exercises.
+Step 2 is illustrated in 2b.
+The open circle (previous injury, Z3) represents the only non-ancestor (an ancestor is direct or indirect cause of another variable) of warm up exercises (X), neuromuscular fatigue (Z1), tissue weakness (Z2) and injury (Outcome).
+It is therefore deleted from the causal diagram in figure 2b.

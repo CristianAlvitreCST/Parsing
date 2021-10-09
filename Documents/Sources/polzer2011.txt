@@ -1,0 +1,2641 @@
+REVIEW
+
+The association of tooth loss with all-cause and circulatory
+mortality. Is there a benefit of replaced teeth? A systematic
+review and meta-analysis
+
+Ines Polzer & Christian Schwahn & Henry Völzke & Torsten Mundt & Reiner Biffar
+
+Received: 14 December 2010 /Accepted: 4 October 2011 /Published online: 17 November 2011
+# Springer-Verlag 2011
+
+Abstract 
+
+We systematically reviewed whether the number
+of teeth is related to all-cause or circulatory mortality and
+whether replaced teeth are protective against all-cause or
+circulatory mortality. The search was based on the PubMed
+database. All cohort studies published in peer-reviewed
+journals were selected. Studies on periodontal disease and
+mortality were excluded if they did not provide information
+on the number of teeth. Risk estimates from studies with
+appropriate exposure definition, confounder adjustment and
+sample size were included in a meta-analysis. Three high-
+quality studies found a relationship between the number of
+teeth and circulatory mortality, whereas a moderate study
+did not. Two out of four moderate- to high-quality studies
+reported a relationship between the number of teeth and all-
+cause mortality. No study has investigated whether replaced
+teeth are protective against mortality. Therefore, denture use
+was taken as proxy. The methodological quality of studies
+on denture use and mortality was generally low to
+moderate. The findings of two moderate studies indicated
+an effect of prosthodontic replacements on all-cause
+mortality, which was supported in bias analysis. It is open 
+whether competing risks of cause-specific death other than
+circulatory mortality reduce an effect of the number of teeth
+on all-cause mortality. An effect of denture use on
+circulatory mortality remains to be established, as well as
+whether the number of replaced teeth affects mortality.
+Specifying the role of potential pathways by which tooth
+loss-related mortality is mediated will possibly increase the
+value of dental treatment for general health.
+
+Keywords 
+Mortality. Prospective studies . Dental prosthesis . Tooth loss . Meta-analysis
+
+Introduction
+
+The number of teeth is discussed to predict all-cause and
+circulatory mortality. Two major pathways may mediate
+this relationship, including (1) the effects of masticatory
+dysfunction on dietary behaviour, nutrition and systemic
+diseases [1–4] and (2) the inflammatory effects of chronic
+periodontal infection on the circulatory system [5–7]. If
+tooth loss was a risk factor, its attributable fraction will be
+relevant because it is more common [8], from younger age
+onwards, than hypertension [9] as one of the primary
+predictors of circulatory mortality.
+The role of the prosthodontic status has been rarely
+examined for the possible relationship between the number
+of teeth and mortality [10]. If the rehabilitation of missing
+teeth by wearing dental prostheses has the potential to
+change masticatory efficiency and diet [11–13], replacing
+missing teeth may hypothetically have an effect on
+mortality. The prosthodontic status is a time-dependent
+exposure, as further tooth loss may occur or missing teeth
+be replaced. If tooth loss is measured at baseline only, its
+risk on mortality is underestimated because some subjects 
+will improve their prosthodontic status (receive a prosthesis
+for missing teeth during the observation period) and some
+subjects will deteriorate (loose teeth during the observation
+period without replacement). Such non-differential misclas-
+sification following the baseline examination was described
+earlier for the risk of periodontal disease on cardiovascular
+disease [14]. Consequently, a long observation period is not
+only linked with a higher chance for changes in the dental
+status but it is also preferable to observe fatal events.
+A highly relevant methodological factor for judging
+whether tooth loss or prosthodontic replacement plays a
+causal role for mortality is to consider the concept of
+confounding. A confounder is related both to the outcome
+and the exposure, and non-considering a confounder may
+overestimate the exposure effect. On the other hand, a
+confounder may also suppress the relationship of interest.
+To choose appropriate confounder sets, an innovative
+epidemiologic tool, namely, directed acyclic graphs
+(DAGs), has been suggested [15–17]. This combined
+analytical and graphical approach allows alternative con-
+founder sets and may be particularly instructive for
+systematic reviews.
+Based on these methodological aspects, we systematically
+reviewed (1) whether the number of teeth is related to all-
+cause or circulatory mortality and (2) whether replaced teeth
+are protective against all-cause or circulatory mortality.
+
+Materials and methods
+
+Search strategy
+
+Literature searches were independently executed by three of
+the authors (I.P., C.S. and H.V.) using two strategies.
+Firstly, the PubMed database (1966 to May 2010) was
+screened to detect articles published in the English
+language on the association between the number of teeth
+and all-cause mortality/circulatory mortality or replaced
+teeth and all-cause mortality/circulatory mortality. The
+search was restricted to studies on human subjects by
+selecting the respective option provided by the PubMed
+search engine. For assessing a putative lifetime effect of the
+number of teeth, the Boolean search formulation was:
+(tooth OR teeth OR “tooth loss” OR “tooth number” OR
+“number of teeth” OR “dental disease” OR “dental status”)
+AND (survival OR mortality OR death OR fatal OR
+lethal). To evaluate a putative beneficial effect of prostho-
+dontic replacements, the Boolean search formulation was:
+(“replaced teeth” OR denture OR “dental prosthesis” OR
+“dental prostheses” OR RPD OR FPD) AND (survival OR
+mortality OR death OR fatal OR lethal). Secondly, after the
+electronic search, manual searches were made through
+reference lists from original research and review articles.
+
+Study selection
+
+All cohort studies published in peer-reviewed journals were
+considered for the present review. Studies on the associa-
+tion between the number of teeth and non-fatal circulatory
+events were excluded, as were studies on periodontal
+disease and mortality if they did not provide information
+on the number of teeth. Highly selected study populations
+were a further criterion for exclusion.
+
+Quality assessment of selected studies
+
+The selected studies were assessed for the exposure, the
+intermediates, the sample size and the confounders. With
+respect to confounding, we classified the studies into risk and
+prediction models [18]. In a risk model, a confounder is
+associated with both the outcome and the exposure, but must
+not be an effect of the exposure [19]. To assess a confounder,
+it would not be appropriate to use stepwise selection
+procedures because they ignore the relation between the risk
+factor and the exposure. Stepwise modelling makes more
+sense for prediction models [19]. The sample size was
+considered insufficient if less than ten outcome events per
+variable were available in prediction models or five events
+per variable in risk models [20]. If the number of events is
+less than the corresponding critical value, the results may be
+biased and should be cautiously interpreted [20].
+
+Potential confounders
+
+Many confounders (age [21, 22], sex [21, 22]), social
+determinants such as socioeconomic status (SES) and marital
+status [22, 23], smoking [21–24], risky alcohol consumption
+[23, 24], physical activity [23, 25], metabolic factors such as
+diabetes and obesity [21–23], serum lipids such as triglycer-
+ides, low-density lipoprotein cholesterol and high-density
+lipoprotein cholesterol [26, 27], hypertension [22, 28], oral
+health behaviour [23, 25], periodontitis [29, 30] and caries
+[31]) have been considered for the relationship between the
+number of teeth and mortality. To reduce such a high number
+of potential confounders to minimal adjustment sets that are
+sufficient to control confounding, the DAG approach was
+used [16, 17]; for example, in Online Fig. 1 (Online Resource
+1, p 9), the DAG for the teeth–mortality relation is drawn
+(generated by DAGitty v0.9b available at http://www.dagitty.
+net/dags.html). The confounder selection depends on the
+exposure of interest [19]. We investigated the effect of the
+number of teeth (I) or related oral exposures (number of
+contacts on natural teeth, II; presence of prostheses, III;
+number of unreplaced teeth, IV). The obtained minimally
+sufficient adjustment sets for different oral exposures (I–IV)
+used in selected studies and under different assumptions are
+presented in Online Table 1 (Online Resource 1, p 7).
+
+334
+Clin Oral Invest (2012) 16:333–351
+
+
+The DAG approach clarifies that an exposure mixture of
+oral variables may be misleading. Moreover, the problem of
+residual confounding by smoking, which has been exten-
+sively discussed for the relationship between oral exposures
+and circulatory outcomes, may potentially be avoided by
+using DAGs.
+Based on extensive DAG analysis, smoking and diabetes
+as the clinically most important (except periodontal disease)
+were considered for the quality assessment of studies with
+the exposure to the number of teeth. Age, sex, social
+determinants (SES) and the number of teeth were consid-
+ered for the quality assessment of the studies on denture use
+or related exposures.
+Additional methodological information on the selection
+of potential confounders based on DAGs is given in Online
+Resource 1 (pp 2 and 3).
+
+Quality criteria
+
+Exposure and intermediates (A–D)
+
+(A)
+Empirical induction period. To investigate the length
+of the time period between the exposure and the
+outcome which should correspond to the proposed
+biological mechanism (0, not performed; 1, for
+exposed and not exposed subjects, an induction
+period was modelled; 2, solely for exposed subjects,
+an induction period was modelled).
+(B)
+Age range. To facilitate a meaningful induction period
+analysis (0, ≥80 years; 1, 65–79 years; 2, <65 years).
+(C)
+Change in exposure (0, not modelled; 1, modelled).
+(D)
+Exposure (0, different exposures mixed; 1, exposure,
+but not the reference group, clearly defined; 2, exposure
+well defined, reference group adequately chosen).
+
+Subtotal grades for exposure and intermediates
+(A–D; D for denture use or related exposures only)
+
+High
+B=2; A, C≥1; D≥2;
+Moderate
+B≥1; D≥1;
+Low
+else.
+
+Sample size
+
+(E)
+Number of events per variable (0, insufficient; 1,
+sufficient).
+
+Confounder assessment (F–L)
+
+(F)
+Risk model chosen (0, no; 1, yes). In meta-analysis,
+bias analysis is possible for risk models only.
+
+Variables considered as potential confounders for risk
+models or, for prediction models, included in the final
+model:
+
+(G)
+Gender (0, no; 1, adjusted for; 2, stratified by).
+(H)
+Age (0, no; 1, adjusted for; 2, stratified by).
+(I)
+Smoking (0, not included; 1, less than three categories
+or three categories parameterised on an ordinal level
+for never, ex- and current smokers; 2, three categories:
+never, ex- and current smokers or a suitable age range
+to deal with never and current smokers only, but
+stratified analysis not reported; 3, three categories
+available or a suitable age range to deal with two
+categories and stratified analysis reported; 4, more than
+three categories for dose and duration used or different
+parameterisations of smoking regarding dose and
+duration performed).
+(J)
+Diabetes (0, no; 1, body mass index or obesity as
+surrogates for diabetes included; 2, yes [diabetes,
+glucose, or haemoglobin A1c]).
+(K)
+SES (including education, income, and occupation;
+for exposures other than number of teeth only) (0, no;
+1, adjusted for; 2, stratified by).
+(L)
+Number of teeth (for exposures other than number of
+teeth only) (0, no; 1, number of teeth mixed with
+exposure to denture use; 2, adjusted for or stratified by
+a surrogate for the number of teeth; 3, adjusted for or
+stratified by the number of teeth).
+
+Subtotal grades for confounder assessment
+(F–J; I and J for number of teeth only, K and L
+for denture use or related exposures only)
+
+High
+F=1; I≥3; G, H, J, K≥1; L≥2;
+Moderate
+F=1; I≥2; G, H≥1;
+Low
+else.
+
+Total
+
+High
+Exposure ≥ moderate and sample size=1 and
+confounding = high;
+Moderate
+Exposure ≥ moderate and sample size=1 and
+confounding = moderate;
+Low
+Exposure = low or sample size=0 or confounding =
+low.
+
+According to the Oxford Centre for Evidence-Based
+Medicine [32], there are four levels of evidence: from level
+A, evidence from high-quality homogeneous randomised
+controlled trials (RCTs), to level D, weak evidence from
+inconsistent or inconclusive studies [32]. ‘RCTs are unethical
+if the intervention is already known to be superior to the
+control in the population under investigation’ [33]. Since the
+
+Clin Oral Invest (2012) 16:333–351
+335
+
+
+relation between the number of natural or replaced teeth and
+mortality should not be examined within the scope of
+randomised clinical trials for ethical reasons, the highest
+possible level of recommendation is B, evidence based on
+cohort studies. Given evidence based on low- to moderate-
+quality cohort studies, the level of recommendation will be C.
+
+Bias analysis
+
+For the putative relationship between prosthodontic replace-
+ments and mortality, SES may be an important confounder,
+which is supported by DAGs (Online Resource 1, Online
+Table 1, p 7). If published results were not adjusted for SES,
+the effect of missing prosthodontic replacements on mortality
+is likely to be overestimated. The lack of confounder control
+can be diminished by bias analyses as recommended by
+experts for meta-analysis [34]. Here, we performed a
+probabilistic bias analysis [35] and chose study-specific bias
+assumptions as described in the supplementary material
+(Online Resource 1, pp 3 and 4). To decide for a relevant
+bias, we used the change-in-estimate criterion for risk models,
+which is usually fixed for a 10% change [19]. The simulation
+estimate and its interval, which are reflections of the combined
+data and bias analysis assumptions, were added to the
+conventional estimate and confidence interval in Table 2.
+
+Results
+
+General description of selected studies
+
+Applying the inclusion and exclusion criteria, in total, 23
+cohort studies [36–58] were selected for qualitative synthe-
+sis (Fig. 1).
+As to the database search on tooth loss and mortality, six
+investigations [37, 38, 42, 54, 58, 59] were assigned to the
+denture use analysis. Other studies were not considered
+since they assessed tooth loss solely as an exposure
+category of periodontal disease [60–64], treated the number
+of teeth as a score variable [65, 66] or a confounding
+variable only [67] or no quantitative data have been given
+[68, 69]. One study was excluded for evaluating only
+incident tooth loss [70]. Between two studies [43, 44], an
+overlap of 94 subjects existed. Because the exposures were
+defined differently, both reports were included. Finally,
+three studies [25, 71, 72] were excluded for not assessing
+fatal events of disease separately from non-fatal outcomes.
+There was no study on the relationship between the number
+of replaced teeth and mortality. Therefore, denture use was
+taken as proxy. As to the eligibility of denture-related studies,
+one investigation [59] was excluded, being based on data also
+used in another publication [37]. Two studies reported no
+quantitative data and were, therefore, not included [57, 60].
+
+A descriptive summary of the selected studies is given in
+Tables 1 and 2; declared risk factors were not restricted to
+those in the final model. Most of the studies were conducted
+in Europe [37, 40, 43–46, 49, 50, 52, 55–57] or Japan [38,
+41, 42, 48, 54, 58], four in the United States [39, 47, 51, 53]
+and one in China [36]. Study participants were recruited
+from the general population [36–46, 48–53, 57, 58], nursing
+facilities [54], registers [47, 55] and a university hospital
+[56]. Sample sizes ranged widely from 94 [43] to 41,000
+subjects [39] in studies on all-cause mortality and from 1,462
+[40] to 58,974 subjects [47] in studies on circulatory
+mortality (Table 1). In studies that considered denture use
+as exposure, the range was 697 [38] to 1,929 subjects [54]
+(Table 2). Denture-related studies did not analyse circulatory
+mortality as outcome. Similarly, the follow-up times differed
+and were at minimum 5 [43] or 6 years [47] and at maximum
+57 years [56] in studies on all-cause or circulatory mortality
+(Table 1). In studies exploring the putative relation between
+denture use and mortality (Table 2), there were shorter
+observation periods of 4 [38] to 15 years [37].
+
+Number of teeth and all-cause/circulatory mortality
+
+There were 15 studies [36, 39–41, 43–46, 48–52, 55, 56] that
+investigated the relation between the number of teeth and all-
+cause mortality and 9 studies [36, 39, 40, 46, 47, 49, 52, 56,
+57] that investigated the effect on circulatory mortality
+(Table 1). Irrespective of the assessed quality, 12 [36, 39–41,
+43–46, 49–51, 55] out of 15 studies reported an increased
+risk of unspecific death among women or men with higher
+numbers of missing teeth, while 7 [36, 39, 40, 46, 47, 49, 56]
+out of 9 studies revealed increased circulatory mortality.
+Study findings are limited by low number of events [20] in
+relation to the number of variables in the final model (for all-
+cause mortality: Table 3 [48, 51] and for circulatory
+mortality: Table 4 [57]). Notably, in one study [57], sample
+size considerations were not reported, although statistically
+non-significant findings were yielded for a low number of
+events. Findings are further limited by using prediction
+models [43, 44, 49–51, 55]. Moreover, the confounder sets
+of the studies were quite heterogeneous. Few risk models
+lacked adjustment for clinically relevant confounders such as
+smoking [39, 41] and diabetes [41, 46, 52] (Tables 3 and 4).
+Potential residual confounding by smoking was addressed in
+three studies by performing sensitivity analysis [36], using
+the number of cigarettes per day for current and former
+smokers [47], or stratifying by smoking status [56]. Tu et al.
+[56] reported separate analyses for smokers and non-smokers
+only for the association between tooth loss and circulatory
+mortality; for that relationship, the methodological quality
+scoring was, therefore, higher (Table 4) than for the all-cause
+mortality analyses (Table 3). Four studies [39, 45, 46, 52]
+discussed residual confounding qualitatively without trying
+
+336
+Clin Oral Invest (2012) 16:333–351
+
+
+to quantify the effect, for instance, in a bias analysis.
+Quantification of the bias effect would have been advisable
+at least for Brown et al. [39]. In contrast, over-adjustment
+might be present for vitamin supplementation [47].
+Different exposure definitions, namely, dichotomous (for
+example, >10 teeth), log-linear (continuous number of teeth)
+or potentially non-log-linear (categories, fractional polyno-
+mials), were used across studies (Table 1). Two studies [49,
+56], having found a higher mortality risk, specified whether a
+linear exposure effect could be assumed. Whereas one study
+[49] revealed linearity, the other did not [56]. Notably, in two
+studies [36, 50], the number of teeth was not examined by
+dental professionals. In a study of health professionals,
+participants indicated their number of teeth (0, 1–10, 11–16,
+17–24, 25–32 teeth) in a self-administered questionnaire
+[47]. Change in exposures or time-dependent variables were
+analysed by Hung et al. [47] only.
+
+All studies had an observation period of at least 5 years.
+Four studies followed up the population for more than
+15 years [40, 45, 49, 56]. The empirical induction period
+was not analysed. The age ranged from 16 [56] to at least
+85 years [43] at baseline. Some studies specifically
+investigated mortality in elderly (65–79 years) [45, 49,
+50] or very old populations (≥80 years) [43, 44, 48, 55].
+Two studies observed selected samples for which high
+health awareness may be assumed [47, 56].
+
+Quality of selected studies on the number of teeth
+and all-cause/circulatory mortality
+
+Summary results of the quality assessment are presented for
+studies on all-cause mortality in Table 3 and for studies on
+circulatory mortality in Table 4. There was a higher
+methodological quality of analyses on the relation between
+
+2953 records identified 
+through database 
+searching
+
+2958 records screened
+
+5 records identified 
+through other sources
+
+Tooth loss
+and all-cause or circulatory mortality
+
+Denture use or related exposures
+and all-cause or circulatory mortality
+
+2921 records excluded after
+title and abstract evaluation
+
+37 full-text articles
+assessed for eligibility 
+
+20 full-text articles excluded:
+6 assigned to denture use analysis [37, 
+38, 42, 54, 58, 59],
+5 edentulism as exposure category of 
+periodontitis [60-64],
+1 incident tooth loss only [70],
+2 tooth loss as score variable [65, 66],
+1 tooth loss as confounding variable [67],
+2 no quantitative data given [68, 69],
+3 no fatal events assessed [25, 71, 72].
+
+17 studies included in
+qualitative synthesis
+
+1447 records identified 
+through database 
+searching
+
+1448 records screened
+
+1 record identified 
+through other sources
+
+1439 records excluded after
+title and abstract evaluation
+
+9 full-text articles
+assessed for eligibility 
+
+3 full-text articles excluded:
+1 data based on another publication [59],
+2 no quantitative data given [57, 60].
+
+6 studies included in
+qualitative synthesis
+
+2 studies included in
+quantitative synthesis (meta-analysis)
+
+Fig. 1 Flow diagram of included studies
+
+Clin Oral Invest (2012) 16:333–351
+337
+
+
+Table 1 Descriptive summary of studies that investigated the relation between tooth loss and all-cause or circulatory mortality or survival [36, 39–41, 43–52, 55–57]
+
+Authors,
+publication year
+Setting
+Subjects
+Response
+Follow-up time
+(mean±SD)
+Exposure, no. affected
+Risk factors considered
+Risk or prediction
+model/risk estimate
+All-cause mortality
+(95% CI)
+Circulatory mortality
+(95% CI)
+
+Abnet et al.,
+2005 [36]
+General population
+of Linxian,
+China
+
+n=28,790 (55%
+females), aged
+40–69 years,
+median age
+52 years (IQR
+44–59 years)
+
+Baseline, n.sp.;
+follow-up,
+99.15%
+
+15 years (n.sp.),
+p-y n.sp.
+Tooth loss greater than the
+loess-smoothed age-
+specific median number
+of teeth lost at baseline
+no. n.sp.
+
+Age, gender, smoking,
+alcohol, height, weight,
+systolic blood pressure
+
+Risk model; hazard
+ratio
+1.13 (1.09;1.18)**,
+9,362 cases
+1.28 (1.17;1.40)** heart
+disease mortality, 1,932
+cases; 1.11 (1.01;1.23)*
+stroke mortality, 2,866
+cases
+
+Brown, 2009
+[39]
+General population
+in the USA
+(National Health
+Interview
+Survey)
+
+n=41,000 (47%
+females), aged
+≥18 years
+
+Baseline: >95%;
+follow-up:
+70.6%
+
+16 years (n.sp.),
+p-y n.sp.
+Edentulism (n=5,043)
+Age, gender, race,
+education, family income,
+living situation, health
+insurance, dental
+insurance, BMI,
+comorbiditya
+
+Risk model; hazard
+ratio
+5-year ratio:
+18–64 years
+(801 cases),
+1.5 (1.2;1.9)b;
+≥65 years
+(no. of cases n.sp.),
+1.3 (1.1;1.4)b
+
+5-year ratio:
+18–64 years (259 cases),
+1.4 (0.9;2.0)b;
+≥65 years
+(no. of cases n.sp.),
+1.3 (1.1;1.5)b
+
+16-year ratio:
+18–64 years
+(3,471 cases),
+1.5 (1.3;1.7)b;
+≥65 years
+(4,376 cases),
+1.3 (1.2;1.4)b
+
+16-year ratio:
+18–64 years
+(1,160 cases),
+1.4 (1.1;1.7)b;
+≥65 years (2,253 cases),
+1.2 (1.1;1.3)b
+
+Cabrera et al.,
+2005 [40]
+General population
+of women from
+Gothenburg,
+Sweden
+
+n=1,462 females,
+aged 38–
+60 years
+
+Baseline, 90%;
+follow-up, 99%
+24 years (n.sp.),
+p-y n.sp.
+Number of missing teeth
+(>10 teeth) no. n.sp.
+Age, waist–hip ratio, BMI,
+smoking, the husband’s
+occupational category,
+plus parity and age at first
+birth for all-cause mortal-
+ity ratio
+
+Risk model; hazard
+ratio
+1.27 (1.09;1.47)*,
+177 cases
+1.34 (1.05;1.71)*, 67 cases
+
+Fukai et al.,
+2007 [41]
+General population
+in three Japanese
+communities:
+Hirama City,
+Shimoji Town,
+Tarama Village
+(Okinawa
+Prefecture)
+
+n=5,730 (61.6%
+females), aged
+>40 years
+
+n.sp.
+15 years (n.sp.),
+p-y n.ps.
+Number of functional teeth
+(<10 teeth, n=3,031)
+Age, presence of systemic
+diseases, bedridden state
+Risk model; hazard
+ratio
+Males, 1.33
+(1.11;1.59)*, 499
+cases;
+Females, 1.04
+(0.83;1.30), 469
+cases
+
+n.sp.
+
+Hämäläinen et
+al., 2003 [44]
+General population
+of Jyväskylä,
+Finland
+
+n=226 (71.2%
+females), aged
+80 years
+
+Baseline, 92.6%
+interview, 72.4%
+medical
+examination,
+79.9% dental
+examination;
+follow-up, n.sp.
+
+10 years (n.sp.),
+p-y n.sp.
+Number of missing teeth
+(continuous) no. n.sp.
+Gender, number of chronic
+diseases, self-rated health
+Prediction model;
+hazard ratio
+1.03 (1.00;1.05)*,
+150 cases
+n.sp.
+
+Hämäläinen et
+al., 2005 [43]
+General population
+of Jyväskylä,
+Finland
+
+n=94 (no. of
+females n.sp.),
+aged 85 years
+
+Baseline, 56.3%
+medical
+examination,
+55.7% dental
+examination;
+follow-up, n.sp.
+
+5 years (n.sp.), p-
+y n.sp.
+Number of remaining teeth
+(continuous) no. n.sp.
+Number of chronic diseases,
+urgent need of dental
+treatment, community
+periodontal index of
+treatment needs
+
+Prediction model;
+hazard ratio
+0.93 (0.87;0.99)*, 49
+cases
+n.sp.
+
+Holm-Pedersen
+et al., 2008
+General population
+of Copenhagen,
+n=573 (51.7%
+females), aged
+Baseline, 72%; 20-
+year follow-up,
+21 years (n.sp.),
+p-y n.sp.
+Edentulism (n=236)
+Education, income,
+tiredness, comorbidity,
+Risk model; hazard
+ratio
+1.26 (1.03;1.55)*,
+458 cases
+n.sp.
+
+338
+Clin Oral Invest (2012) 16:333–351
+
+
+Table 1 (continued)
+
+Authors,
+publication year
+Setting
+Subjects
+Response
+Follow-up time
+(mean±SD)
+Exposure, no. affected
+Risk factors considered
+Risk or prediction
+model/risk estimate
+All-cause mortality
+(95% CI)
+Circulatory mortality
+(95% CI)
+
+[45]
+Denmark
+70 years
+14%
+arteriostenosis, smoking
+Holmlund et
+al., 2010 [46]
+General population
+(n=886) and
+dental hospital
+patients (n=
+6,788) of Gävle,
+Sweden
+
+n=7,674 (57.0%
+females), aged
+20–89 years
+
+n.sp.
+29 years
+(12 years),
+93,857 p-y
+
+Number of remaining teeth
+(<10 teeth, 10–14 teeth,
+15–19 teeth, 20–25
+teeth, >25 teeth) no. n.
+sp.
+
+Age, gender, smoking
+Risk model; hazard
+ratio
+>25 teeth, [reference]
+CVD mortality
+
+20–25 teeth, 1.28
+(1.02;1.60)*
+>25 teeth [reference]
+
+15–19 teeth, 1.77
+(1.37;2.27)**
+20–25 teeth, 1.79
+(1.25;2.58)*
+
+10–14 teeth, 2.01
+(1.52;2.66)**
+15–19 teeth, 2.75
+(1.87;4.04)**
+
+<10 teeth, 2.68
+(1.96;3.67)**;
+629 cases
+
+10–14 teeth, 3.29
+(2.17;5.0)**
+
+<10 teeth, 4.63
+(2.95;7.26)**; 299 cases
+
+Hung et al.,
+2004 [47]
+US-American male
+health
+professionals and
+female nurses
+
+n=41,407 males,
+aged 40–
+75 years; n=
+58,974 females,
+aged 30–
+55 years
+
+n.sp.
+Males, 12 years
+(n.sp.);
+females,
+6 years (n.sp.);
+p-y n.sp.
+
+Self-reported number of
+teeth (0–10 teeth, n=
+1,183 males, n=6,134
+females; 11–16 teeth, n=
+904 males, n=2,925
+females; 17–24 teeth, n
+=4,532 males, n=11,883
+females; 25–32 teeth, n
+=34,788 males, n=
+38,032 females)
+
+Age, smoking, alcohol
+consumption, BMI,
+physical activity, family
+history of MI,
+multivitamin supplement
+use, vitamin E use,
+history of hypertension,
+diabetes,
+hypercholesterolemia,
+profession (for males
+only), menopausal status
+and hormonal use (for
+females only)
+
+Risk model;
+relative risk
+n.sp.
+Males (562 cases)
+
+25–32 teeth [reference]
+
+17–24 teeth, 1.26
+(1.01;1.57)
+
+11–16 teeth, 1.19
+(0.79;1.80)
+
+0–10 teeth, 1.79
+(1.34;2.40)b
+
+Females (158 cases)
+
+25–32 teeth [reference]
+
+17–24 teeth, 1.02
+(0.66;1.55)
+
+11–16 teeth, 1.07
+(0.56;2.05)
+
+0–10 teeth, 1.65
+(1.11;2.46)b
+
+Österberg et al.,
+2007 [50]
+General population
+in three
+Scandinavian
+communities:
+Glostrup,
+Denmark;
+Jyväskylä,
+Finland;
+Göteborg,
+Sweden
+
+n=1,004 (57.1%
+females) aged
+75 years (7-year
+mortality:
+females, 21–
+29%; males, 31–
+39%)
+
+Baseline: Jyväskylä
+79%, Glostrup
+69%, Göteborg
+68%; follow-up:
+n.sp.
+
+7 years (n.sp.), p-
+y n.sp.
+Self-reported number of
+teeth (0 teeth [reference,
+23–58%], 1–4 teeth,
+5–9 teeth, 10–14 teeth,
+15–19 teeth, 20–32 teeth
+[9–27%]) no. n.sp.
+
+Education, economic
+situation, smoking,
+alcohol consumption,
+self-assessed health,
+physical activity, social
+activity, circulation dis-
+ease, respiratory disease,
+no of other chronic dis-
+eases, activity of daily
+life, hospitalised last year,
+BMI, forced expiratory
+volume, walking speed,
+locality
+
+Prediction model;
+hazard ratio
+Males (no. of cases
+n.sp.), NS (n.sp.);
+Females (no. of
+cases n.sp.), 0.87
+(0.78;0.97)*
+
+n.sp.
+
+Österberg et al.,
+2008 [49]
+Four birth cohorts
+of the general
+population of
+Göteborg,
+
+7 year follow-up:
+n=1,803 (52.6%
+females) aged
+70 years
+
+Baseline: 62–84%
+(earlier–later
+cohort); follow-
+up n.sp.
+
+7–28 years
+(earlier–later
+cohort), 7-year
+follow-up:
+
+Number of teeth
+(continuous and
+categorical, linearity
+tested: 0 teeth [reference,
+
+Gender, marital status,
+smoking, physical
+activity, BMI, diabetes,
+ischemic heart disease,
+
+Prediction model;
+hazard ratio
+Continuous datac
+Continuous datac
+
+Clin Oral Invest (2012) 16:333–351
+339
+
+
+Table 1 (continued)
+
+Authors,
+publication year
+Setting
+Subjects
+Response
+Follow-up time
+(mean±SD)
+Exposure, no. affected
+Risk factors considered
+Risk or prediction
+model/risk estimate
+All-cause mortality
+(95% CI)
+Circulatory mortality
+(95% CI)
+
+Sweden
+males, 5,213 p-
+y, females,
+6,189 p-y; 18-
+year follow-up:
+males, 7,082 p-
+y, females,
+9,706 p-y
+
+51–16%], 1–9 teeth,
+10–19 teeth, 20–32 teeth
+[14–38%])
+
+claudicatio intermittens,
+chronic bronchitis, history
+of cancer, number of
+drugs, antihypertensive
+drug, feeling not healthy,
+serum triglycerides, blood
+haemoglobin, plasma
+glucose
+
+18 year follow-up:
+n=1,381 (51.2%
+females)
+
+7-year ratio: total
+(374 cases), 0.97
+(0.95;0.98)**;
+males (239 cases),
+0.96 (0.95;0.98)**;
+females (135
+cases), 0.97
+(0.95;0.99)*
+
+7-year ratio: total (no. of
+cases n.sp.), 0.96**
+
+18-year ratio: total
+(1,003 cases), 0.99
+(0.98;0.99)*;
+males (550 cases),
+0.98 (0.97;0.99)*;
+females (453
+cases), NS (n.sp.)
+
+18-year ratio: n.sp.
+
+Padilha et al.,
+2008 [51]
+General population
+of Baltimore,
+Maryland, USA
+(BLSA)
+
+n=500 (18.4%
+females) aged
+57.5 (±17.4)
+years
+
+n.sp.
+185 (±90)months
+p-y n.sp.
+Number of teeth (0 teeth, n
+=24; 1–19 teeth, n=78;
+≥20 teeth, n=398)
+
+Age, gender, education,
+smoking, self-rated
+health, serum lipids and
+glucosed, white blood cell
+counts, physical activity,
+somatometric parame-
+terse, circulatory disea-
+sesf, cancer, diabetes, no.
+of teeth with coronal and
+cervical caries, DMFT,
+periodontal parametersg
+
+oral health behaviourh
+
+Prediction model
+hazard ratio
+≥20 teeth [reference];
+1–19 teeth, 2.17
+(1.50;3.13)**; 0
+teeth, 1.76
+(1.04;2.98)*; 198
+cases
+
+n.sp.
+
+Ragnarsson et
+al., 2004 [52]
+General population
+of Reykjavik,
+Iceland and the
+MONICA
+Project (WHO,
+21 countries)
+
+n=2,613 (52.7%
+females), aged
+25–74 years
+
+n.sp.
+8–15 years (n.
+sp.), p-y n.sp.
+Number of teeth
+(continuous, linearity
+tested), edentulism (n=
+909), number of years of
+edentulism (8.6±
+14.5 years)
+
+Age, gender, cholesterol,
+systolic blood pressure,
+education, smoking
+
+Risk model; hazard
+ratio
+No. of teeth, 0.991
+(0.979;1.003)
+No. of teeth, 0.983
+(0.958;1.009)
+
+Edentulism, 1.15
+(0.94;1.50)
+Edentulism, 1.46
+(0.88;2.43)
+
+No. of years of
+edentulism, 1.007
+(1.001;1.013)*;
+353 cases
+
+No. of years of edentulism,
+1.004 (0.991;1.018); 82
+cases
+
+Tu et al., 2007
+[56]
+Students registered
+at the University
+of Glasgow, UK
+
+n=12,223 (22%
+females), aged
+≤30 years
+(median
+19 years)
+
+Baseline, 97%;
+follow-up, n.sp.
+57 years (n.sp.),
+p-y n.sp.
+Number of missing teeth
+(continuous; categorical,
+0–4 missing teeth, n=
+7,403, 5–8 missing
+teeth, n=3,192, ≥9
+missing teeth, n=953;
+fractional polynomial)
+
+Age at examination, year of
+birth, gender, father’s
+socioeconomic position,
+smoking, BMI, systolic
+blood pressure
+
+Risk model; hazard
+ratio
+Continuous, 1.01
+(1.00;1.02);
+categorical, n.sp.;
+fractional
+polynomial, n.sp.
+1,432 cases
+
+Continuous, 1.01
+(0.99;1.03); categorical,
+0–4 missing teeth
+[reference], 5–8 missing
+teeth 1.14 (0.94;1.39), ≥9
+missing teeth 1.35
+(1.03;1.77)*; fractional
+polynomial, p value<0.05
+509 cases
+
+Tuominen et
+al., 2003 [57]
+General population
+in Finland (Mini-
+Finland Health
+Survey)
+
+n=6,527 (52,6%
+females), aged
+30–69 years
+
+Baseline, 90.2%;
+follow-up, n.sp.
+12 years (±n.sp.),
+p-y n.sp.
+Number of teeth (≥25
+teeth, n=1,722; 11–24
+teeth, n=1,921; ≤10
+teeth, n=1,267)
+
+Age, education,
+hypertension,
+hypercholesterolemia,
+smoking, diabetes,
+
+Risk model; hazard
+ratio
+n.sp.
+Among dentate (2,303
+males, 2,245 females):
+males (150 cases): ≥25
+teeth [reference]; 11–24
+
+340
+Clin Oral Invest (2012) 16:333–351
+
+
+Table 1 (continued)
+
+Authors,
+publication year
+Setting
+Subjects
+Response
+Follow-up time
+(mean±SD)
+Exposure, no. affected
+Risk factors considered
+Risk or prediction
+model/risk estimate
+All-cause mortality
+(95% CI)
+Circulatory mortality
+(95% CI)
+
+number of carious teeth
+number of filled teeth,
+number of retained roots,
+periodontal pockets,
+dental attendance
+
+teeth, 0.8 (0.5;1.3); ≤10
+teeth, 0.9 (0.5;1.6);
+females (36 cases): ≥25
+teeth [reference]; 11–24
+teeth, 0.5 (0.2;1.8); ≤10
+teeth, 0.3 (0.1;1.0)
+
+Morita et al.,
+2006 [48]
+General population
+of Tokoname,
+Japan
+
+Two matched
+groups of n=59
+each (24
+females), aged
+≥80 years
+
+Baseline, 64.6%;
+follow-up, ≥20
+teeth group
+33.9%, <20 teeth
+group 37.3%
+
+10 years (n.sp.),
+p-y n.sp.
+Number of teeth (≥20
+teeth, n=59)
+Smoking, alcohol
+consumption
+Risk model; hazard
+ratio
+No significant
+differences in the
+cumulative
+survival rates,
+76 cases
+
+n.sp.
+
+Thorstensson and
+Johansson,
+2009 [55]
+
+Monozygotic or
+dizygotic like-
+gendered twins,
+living in housing
+or institutional
+settings in Swe-
+den (OCTO-
+Twin)
+
+n=357 (68.1%
+females), aged
+≥80 years
+(median
+86 years)
+
+Baseline, 100%
+(register study);
+follow-up, n.sp.
+
+8 years (n.sp.), p-
+y n.sp.
+Being dentate (n=181)
+Zygosity, household
+economy in childhood,
+financial status during
+work life, social class,
+education, marital status,
+current living conditions,
+smoking, psychosocial
+variablesi, periodontal
+disease experience,
+percent of carious or
+filled tooth surfaces
+
+Prediction model;
+hazard ratio
+≤85 years (males),
+1.8 (1.0;3.0)*
+n.sp.
+
+≤85 years (females),
+NS (n.sp.)
+
+≥86 years (males),
+NS (n.sp.)
+
+≥86 years (females),
+NS (n.sp.)
+
+No. of cases, n.sp.
+
+SD standard deviation, no. number, CI confidence interval, n.sp. not specified, p-y person-years at risk, BMI body mass index, MI myocardial infarction, NS non-significant, DMFT sum of the
+number of decayed, missing and filled teeth
+
+*p<0.05, **p≤0.001
+
+a Including activity limitation, arthritis, diabetes, ischemic heart disease, cerebrovascular disease, cancer (excluding lung), asthma, chronic bronchitis, emphysema, lung cancer
+
+b Significance level not specified
+
+c Risk estimates for the number of teeth categories are not markedly different from the continuous data and, therefore, not shown
+
+d Including LDL cholesterol, HDL cholesterol, triglycerides, serum fasting glucose, 2-h post-challenge serum glucose
+
+e Including BMI, lower waist circumference, abdominal skinfold thickness
+
+f Including myocardial infarction, angina pectoris, stroke, transitory ischemic attack, congestive heart failure
+
+g Including frequency of tooth brushing, frequency of visits to the dentist
+
+h Defined as a sum of scores for the number of missing teeth, apical lesions, caries lesions and marginal bone loss
+
+i Including self-evaluated healthy lifestyle, capacity to keep oneself neat and tidy, in need of help to keep neat and tidy, perceived loneliness, overall cognitive status
+
+j Including average gingival index (grade of gingival inflammation), average periodontal index (grade of attachment loss)
+
+Clin Oral Invest (2012) 16:333–351
+341
+
+
+Table 2 Descriptive summary of studies that considered denture use or related exposures in the investigation of the relation between dental status and all-cause mortality [37, 38, 42, 53, 54, 58]
+
+Authors,
+publication year
+Setting
+Subjects
+Response
+Follow-up time
+(mean±SD)
+Exposure (no. affected)
+Risk factors considered
+Risk estimate
+All-cause mortality (95% CI)
+
+Appollonio et al.,
+1997 [37]
+General population of
+Brescia, Italy
+n=1,124 (66.5%
+females), aged
+70–75 years
+
+Baseline, 91.3%;
+follow-up,
+86.3%
+
+10 years (n.sp.),
+p-y n.sp.
+Naturally adequate dental
+status (ADS, n=281),
+denture wearers (DW, n=
+677), naturally inadequate
+dental status and subjects
+not using dentures (IDS,
+n=166); (type of
+prosthesis not considered)
+
+Smoking, health service use,
+education, economic status
+Hazard ratio
+ADS [reference]
+
+DW 1.34 (1.06;1.704)
+
+IDS 1.51 (1.11;2.05)*
+
+478 cases
+
+Awano et al.,
+2008 [38]
+General population of the
+Fukuoka Prefecture, Japan
+n=697 (60.3%
+females), aged
+80 years
+
+Baseline, 54.4%;
+follow-up,
+100%
+
+4 years (n.sp.),
+p-y n.sp.
+No denturea (n=298), using
+partial denture (n=150),
+using full denture (n=
+246); (fixed prostheses
+not considered)
+
+Gender, history of stroke, serum
+albumin, serum total
+cholesterol, fasting serum
+glucose, BMI, smoking
+
+Hazard ratio
+No denturea [reference]
+
+Partial denture 1.2 (0.7;2.2)
+
+Full denture 1.5 (0.9;2.4)
+
+108 cases
+
+Fukai et al., 2008
+[42]
+General population of three
+Japanese communities:
+Hirama City, Shimoji Town,
+Tarama Village (Okinawa
+Prefecture)
+
+n=5,688 (60.5%
+females), aged
+>40 years
+
+n.sp.
+15 years (n.sp.),
+p-y n.ps.
+<10 functional teeth using
+dentures (n=2,247), <10
+not using dentures (n=
+750); (type of prosthesis
+not considered)
+
+Age, presence of systemic
+diseases, bedridden state,
+number of functional natural
+teeth (0–4, 5–9)
+
+Hazard ratio
+<10 teeth using denture
+[reference]b
+
+Males, 0.99 (0.74;1.32)b
+
+Females, 1.39 (1.10;1.75)*,b
+
+1,012 cases
+
+Relative risk after bias analysis
+(95% simulation interval)
+
+Males, 0.95 (0.70;1.29)
+
+Females, 1.36 (1.09;1.70)
+
+Semba et al.,
+2006 [53]
+General population of women
+from Baltimore, Maryland,
+USA(WHAS-I/II)
+
+n=826 females, aged
+70–79 years
+Baseline:
+WHAS-I,
+71.1%;
+WHAS-II,
+49.5%; follow-
+up, n.sp.
+
+5 years (±n.sp.),
+p-y n.sp.
+Denture use and difficulty
+chewing or swallowing
+(n=61), denture use and
+no difficulty chewing or
+swallowing (n=464), no
+denture usea (n=301);
+(fixed prostheses not
+considered)
+
+Age, race, education, BMI
+Hazard ratio
+No denture usea [reference]
+
+Denture use and difficulty
+chewing or swallowing 1.43
+(1.05;1.97)c
+
+135 cases
+
+Shimazaki et al.,
+2001 [54]
+Institutionalised elderly of
+Kitakyushu City, Japan
+n=1,929 (72.2%
+females) aged
+79.7±7.5 years
+
+Baseline, 87%;
+follow-up,
+37.5%
+
+6 years (n.sp.),
+p-y n.sp.
+≥20 teeth (n=129), 1–19
+teeth using dentures (n=
+377), 1–19 teeth not using
+dentures (n=347),
+edentulous using dentures
+(n=575), edentulous not
+using dentures (n=334);
+(fixed prostheses not
+considered)
+
+Age, gender, physical–mental
+health status, type of
+institution, cerebrovascular
+disorder, cardiovascular
+disease, musculoskeletal
+disease
+
+Odds ratio
+≥20 teeth [reference]
+
+1–19 teeth using dentures, 1.3
+(0.8;2.0)
+
+1–19 teeth not using dentures,
+1.5 (0.9;2.4)
+
+Edentulous using dentures, 1.3
+(0.8;2.4)
+
+Edentulous not using dentures,
+1.8 (1.1;2.8)*
+
+856 cases
+
+Yoshida et al.,
+2005 [58]
+General population of Kure
+City, Hiroshima, Japan
+n=1,030 (no. of
+females n.sp.),
+aged ≥65 years
+
+Baseline, n.sp.;
+follow-up,
+95.9%
+
+8 years (n.sp.),
+p-y n.sp.
+Occlusal contact in at least the
+bilateral premolar regions
+(A, n=239), insufficient
+occlusal contacts with
+unilateral molar and/or
+
+Age, gender
+Hazard ratio
+A 0.78 (0.60;0.99)**
+
+B 1.08 (0.85;1.36)
+
+C [reference]
+
+239 cases
+
+342
+Clin Oral Invest (2012) 16:333–351
+
+
+the number of teeth and circulatory mortality, which was
+moderate to high in half of all studies, compared with
+studies addressing all-cause mortality as outcome. Gener-
+ally, lower quality scorings of the selected studies were
+partly attributable to a research question different from
+those of the present systematic review. Cabrera et al. [40],
+for example, assessed whether the SES can explain the
+relation between tooth loss and circulatory mortality; for
+that aim (SES as exposure), smoking would be an
+intermediary variable rather than a confounder.
+Based on quality assessment, valid results for all-cause
+mortality can be assumed for Abnet et al. [36] and, to an
+essentially lower grade, for Holm-Pedersen et al. [45],
+Ragnarsson et al. [52] and Tu et al. [56]. Exposures differ
+across moderate- to high-quality studies [36, 45, 52, 56].
+Therefore, a pooled estimation would be feasible only for
+two moderate studies [52, 56], both analysing the number
+of teeth as continuous variable. Quantitative synthesis
+ignoring high-quality data could be misleading and was,
+therefore, not performed. Two [36, 45] out of four
+moderate- to high-quality studies (Table 3), however,
+reported a relationship between the number of teeth and
+all-cause mortality (Table 1).
+Valid results for circulatory mortality can be assumed for
+Abnet et al. [36], Hung et al. [47] and Tu et al. [56] (Table 4),
+who all have found a relationship between the exposure and
+the outcome (Table 1) and, to an essentially lower grade, for
+Ragnarsson et al. [52], who revealed no relationship between
+the number of teeth and circulatory mortality. A meta-analysis
+of the studies was not feasible for similar reasons as for well-
+designed studies on all-cause mortality; discrepancy in
+definitions of the exposures would demand exclusion of the
+two studies with the largest sample size [36, 47].
+
+Denture use and all-cause mortality
+
+No study particularly investigated whether the number of
+replaced or unreplaced teeth affects mortality. Six inves-
+tigations [37, 38, 42, 53, 54, 58] explored the putative
+relation between denture use and all-cause mortality. The
+study of Semba et al. [53] was not further considered, since
+the exposure mixture to denture use and difficulty in
+chewing or swallowing was not suitable for the aim of
+our review. Four [37, 42, 54, 58] out of the remaining five
+studies yielded an increased risk of death among women or
+men not using dentures (Table 2). Interpretation of these
+findings is, however, limited by the methodological quality
+of the analyses (Table 5). One study [58] controlled only for
+age and gender for each exposure group (but additionally
+controlled tooth contacts for the exposure to denture use)
+and each study lacked adjustment for gender [37], age [37]
+or SES, including education and income [38, 42, 54, 58].
+Only one study used risk modelling approaches [42]. None
+
+Table 2 (continued)
+
+Authors,
+publication year
+Setting
+Subjects
+Response
+Follow-up time
+(mean±SD)
+Exposure (no. affected)
+Risk factors considered
+Risk estimate
+All-cause mortality (95% CI)
+
+anterior teeth remaining
+(B, n=211), no occlusal
+contacts with or without
+remaining teeth (C, n=538
+at follow-up), in group C:
+subdivision according den-
+ture use (n=60 non-user)
+(type of prosthesis not
+considered)
+
+Among group C (161 cases)
+
+Denture user [reference]
+
+Denture non-user, 1.52
+(1.25;1.83)**
+
+Relative risk after bias analysis
+(95% simulation interval),
+1.46 (1.18;1.79)
+
+SD standard deviation, no. number, CI confidence interval, n.sp. not specified, p-y person-years at risk, BMI body mass index
+
+*p<0.05, **p≤0.001
+
+a Including dentate subjects who do not need dentures and partially or fully edentulous subjects who do not wear dentures
+
+b Different from the original data, the reference group was re-coded and reciprocal values of risk estimates are presented
+
+c Significance level not specified
+
+Clin Oral Invest (2012) 16:333–351
+343
+
+
+of the studies followed up the population longer than
+15 years. The empirical induction period was not analysed
+by any of the studies. Most studies addressed mortality in
+old (65–79 years) [37, 54, 58] or very old adults (≥80 years)
+[38] and one of those specifically referred to institutional-
+ised elderly [54].
+
+Quality of selected studies on denture use and all-cause
+mortality
+
+Quality estimates of the studies that considered denture use
+or related exposures in the relationship between dental status
+
+and all-cause mortality are presented in Table 5. Based on
+the proposed criteria, the quality scoring was low to
+moderate. This quality scoring was improved using bias
+analysis (Table 5). A valid statement on the effect of
+denture use on all-cause mortality can only be assumed for
+two Japanese studies [42, 58], which found that denture
+non-use is a risk factor for mortality. These exposure effects
+were changed less than 10% by SES in bias analyses (data
+are given in Online Resource 1, Online Table 2, p 8), which
+was expected mainly because wealth inequalities were
+relatively low in Japan [73]. Therefore, we used the original
+estimates in meta-analysis. The pooled estimate assuming
+
+Table 3 Quality scoring of the studies that investigated the relation between tooth loss and all-cause mortality [36, 39–41, 43–46, 48–52, 55, 56]
+
+Authors,
+publication year
+Exposure and intermediates
+Sample size
+Confounder assessment
+Total
+
+A (0–2)
+B (0–2)
+C (0, 1)
+A–C
+E (0, 1)
+F (0, 1)
+G (0–2)
+H (0–2)
+I (0–4)
+J (0–2)
+F–J
+A–J
+
+Abnet et al., 2005
+[36]
+0
+2
+0
+Moderate
+1
+1
+1
+1
+4
+1
+High
+High
+
+Brown, 2009 [39]
+0
+2
+0
+Moderate
+1
+1
+1
+2
+0
+2
+Low
+Low
+
+Cabrera et al.,
+2005 [40]
+0
+2
+0
+Moderate
+1
+1
+–
+1
+≥1a
+1
+?a
+?a
+
+Fukai et al., 2007
+[41]
+0
+2
+0
+Moderate
+1
+1
+2
+1
+Females, 0
+0
+Low
+Low
+Males, 0
+
+Hämäläinen et al.,
+2003 [44]
+0
+0
+0
+Low
+1
+0
+1
+–
+0
+0
+Low
+Low
+
+Hämäläinen et al.,
+2005 [43]
+0
+0
+0
+Low
+1
+0
+0
+–
+0
+0
+Low
+Low
+
+Holm-Pedersen et
+al., 2008 [45]
+0
+1
+0
+Moderate
+1
+1
+1
+–
+2
+2
+Moderate
+Moderate
+
+Holmlund et al.,
+2010 [46]
+0
+2
+0
+Moderate
+1
+1
+1
+1
+1
+0
+Low
+Low
+
+Österberg et al.,
+2007 [50]
+0
+1
+0
+Moderate
+?
+0
+2
+–
+Females, 1b
+Females, 0
+Low
+Low
+Males, 0
+Males, 1
+
+Österberg et al.,
+2008 [49]
+0
+1
+0
+Moderate
+Females, 0
+0
+2
+–
+Females, 0
+Females, 2
+Low
+Low
+Males, 1
+Males, 0
+Males, 0
+
+Padilha et al.,
+2008 [51]
+0
+2
+0
+Moderate
+0c
+0
+0
+1
+1
+2
+Low
+Low
+
+Ragnarsson et al.,
+2004 [52]
+0
+2
+0
+Moderate
+1
+1
+1
+1
+2
+0
+Moderate
+Moderate
+
+Tu et al., 2007
+[56]
+0
+2
+0
+Moderate
+1
+1
+1
+1
+2
+–
+Moderate
+Moderate
+
+Morita et al.,
+2006 [48]
+0
+0
+0
+Low
+Females, 0
+1
+2
+1d
+1
+2d
+Low
+Low
+Males, 0e
+
+Thorstensson and
+Johansson,
+2009 [55]
+
+0
+0
+0
+Low
+?
+0
+2
+2
+Females≤85 years, 0
+Males≤85 years, 0
+0
+Low
+Low
+
+Females>85 years, 1
+Males>85 years, 0
+
+A empirical induction period, B age range, C change in exposure, E number of events per variable, F risk model chosen, G gender, H age, I
+smoking, J diabetes (for further details, see the “Quality criteria” section)
+
+a Required supplementary information for ultimate quality assessment of the study was unfortunately not available
+
+b Based on the “Materials and methods” section, two coefficients or hazard ratios were to be expected, but only one was presented. Similarly to
+parameterisation of other variables, it is to be assumed that, for smoking, an ordinal level was modelled (non-smoker < previous smoker < current
+smoker)
+
+c Twenty-two variables with at least 22 coefficients were included in the initial multivariable model (198 events)
+
+d Matched by age, sex, living environments (in parenthese) and health status including cardiovascular disease, diabetes and cancer
+
+e Analyses were related to points in time (using a sequence of odds ratios) rather than to a time period (using one hazard ratio) and were not
+corrected for multiple testing; for analyses of points in time, fewer events than reported (females, 39 deaths; males, 37 deaths) were available
+before the end of the observation period
+
+344
+Clin Oral Invest (2012) 16:333–351
+
+
+random effects of the overall risk in Yoshida et al. [58] and the
+two gender-specific risks in Fukai et al. [42] yielded a hazard
+ratio of 1.31 for denture non-users compared with denture
+users (95% CI 1.03;1.65, using EPISHEET developed by
+Rothman [19] version of June 11, 2008) (Fig. 2), indicating
+an effect of prosthodontic replacements on mortality.
+
+Discussion
+
+In conducting a sound meta-analysis, we aimed for an
+average effect across studies by using well-established
+methods [34], which included state-of-the-art probabilistic
+bias analysis on study level [35]. The findings of this
+systematic review and meta-analysis, however, must be
+considered in the context of the following potential
+limitations. The small number of studies available for
+analysis limits not only the generalisability of the results
+but also the application of methods for detecting bias in meta-
+analysis (for example, publication bias and language bias)
+[74]. Moreover, possible sex differences could not be
+addressed in the relation between oral health and circulatory
+outcomes. The small number of studies included in this
+review did not permit to evaluate the quality of the
+assessment for circulatory mortality. Furthermore, we cannot
+exclude potential bias in the original studies, for example,
+because of measurement error or misclassification of
+confounders.
+
+Number of teeth and all-cause/circulatory mortality
+
+The three high-quality studies [36, 47, 56] (Table 4)
+revealed a relationship between the number of teeth and
+circulatory mortality (Table 1). Therefore, the recommen-
+dation regarding the number of teeth playing a causal role
+with respect to circulatory mortality is assessed as level B
+[32]. For the putative relationship between the number of
+teeth and all-cause mortality, only one high-quality study
+was found. Given the inconsistent results of moderate- and
+high-quality studies (Tables 1 and 3), a recommendation
+cannot be given [32].
+At least three biological mechanisms are suggested for
+the link between the number of teeth and mortality: (1)
+inflammation, (2) infection and (3) diet and nutrition (for
+further information about the biological mechanisms,
+please refer to the supplementary material [Online
+Resource 1, p 5]).
+Each aforementioned pathway relates to a specific
+confounder set and requires a corresponding induction
+period. If, for example, a nutritional pathway was taken, it
+would be unjustified to assume that having missing,
+unreplaced teeth instantly leads to death, but it would be
+reasonable to assume an induction period of at least 5 years,
+as suggested by two studies by Nakanishi and colleagues
+[75, 76]. They reported the effect of chewing disability on
+mortality for a 9-year observation period, but did not
+observe the outcome during the first 4.5 years of follow-up.
+
+Table 4 Quality scoring of the studies that investigated the relation between tooth loss and circulatory mortality [36, 39, 40, 46, 47, 49, 52, 56, 57]
+
+Authors, publication
+year
+Exposure and intermediates
+Sample
+size
+Confounder assessment
+Total
+
+A (0–2) B (0–2) C (0, 1) A–C
+E (0, 1)
+F (0, 1) G (0–2) H (0–2) I (0–4) J (0–2) F–J
+A–J
+
+Abnet et al., 2005
+[36]
+0
+2
+0
+Moderate 1
+1
+1
+1
+4
+1
+High
+High
+
+Brown, 2009 [39]
+0
+2
+0
+Moderate 1
+1
+1
+2
+0
+2
+Low
+Low
+Cabrera et al., 2005
+[40]
+0
+2
+0
+Moderate 1
+1
+–
+1
+≥1
+1
+?a
+?a
+
+Holmlund et al., 2010
+[46]
+0
+2
+0
+Moderate 1
+1
+1
+1
+1
+0
+Low
+Low
+
+Hung et al., 2004 [47]
+0
+2
+1
+Moderate 1
+1
+2
+1
+4
+2
+High
+High
+Österberg et al., 2008
+[49]
+0
+1
+0
+Moderate ?
+0
+2
+–
+?
+?
+Low
+Low
+
+Ragnarsson et al., 2004
+[52]
+0
+2
+0
+Moderate 1
+1
+1
+1
+2
+0
+Moderate Moderate
+
+Tu et al., 2007 [56]
+0
+2
+0
+Moderate 1
+1
+1
+1
+3
+–
+High
+High
+Tuominen et al., 2003
+[57]
+0
+2
+0
+Moderate Females, 0
+1b
+2
+1
+2
+2
+Moderate Low
+Males, 0b
+
+A empirical induction period, B age range, C change in exposure, E number of events per variable, F risk model chosen, G gender, H age, I
+smoking, J diabetes (for further details, see the “Quality criteria” section)
+
+a Required supplementary information for ultimate quality assessment of the study was unfortunately not available
+
+b In females, at least 18 coefficients were included in the final model (36 events). In males, at least 18 coefficients were included in the final model
+(150 events); here, the criterion of 5 events per variable is not appropriate for a risk model because the change of the 11 reported dental exposure
+coefficients would have been controlled for
+
+Clin Oral Invest (2012) 16:333–351
+345
+
+
+Table 5 Quality scoring of the studies on denture use or related exposures and all-cause mortality [37, 38, 42, 54, 58]
+
+Authors, publication
+year
+Exposure and intermediates
+Sample size
+Confounder assessment
+Total
+
+A (0–2)
+B (0–2)
+C (0, 1)
+Da (0–2)
+A–D
+E (0, 1)
+F (0, 1)
+G (0–2)
+H (0–2)
+K/KBA (0–2)
+L (0–3)
+F–L/incl. KBA
+A–L/incl. KBA
+
+Appollonio et al.,
+1997 [37]
+0
+1
+0
+0b
+Low
+1
+0
+0
+–/0
+0/–
+1
+Low
+Low
+
+Awano et al., 2008
+[38]
+0
+0
+0
+1c
+Low
+1
+0
+1
+–
+0/–
+3
+Low
+Low
+
+Fukai et al., 2008
+[42]
+0
+2
+0
+2d
+Moderate
+1
+1
+2
+1
+0/1
+3
+Moderate/high
+Moderate/high
+
+Shimazaki et al.,
+2001 [54]
+0
+1
+0
+0e
+Low
+1
+0
+1
+1
+0/–
+1
+Low
+Low
+
+Yoshida et al.,
+2005 [58]
+0
+1
+0
+2f
+Moderate
+1
+Across all exposure
+categories age
+and sex only
+
+1
+1
+0/1
+2 for exposure denture
+use within the group
+of no occlusal
+contacts
+
+Moderate/high
+Moderate/high
+
+A empirical induction period, B age range, C change in exposure, D exposure, E number of events per variable, F risk model chosen, G gender, H age, K socioeconomic status, BA bias analysis, L
+number of teeth (for further details, see the “Quality criteria” section), incl. including
+
+a Type of exposures:
+I related to the number of natural teeth including edentulism
+II related to the number of contacts on natural teeth only
+III related to the presence of prostheses
+IV related to the number of unreplaced teeth
+
+b Three exposures were mixed (I, II and IV). Moreover, the exposure levels are referred to the Manson criteria [89], which do not clearly define adequate and inadequate natural dentition
+
+c The exposure is related only to the type of prosthesis (III), but the reference group includes edentulous and fully dentate subjects
+
+d The two exposures (I and III) were stratified for. Thus, the reference is adequate as well
+
+e Two exposures were mixed (I and III)
+
+f In the first analysis, exposure II was used; a second analysis was restricted to subjects based on exposure II and then exposure III was used
+
+346
+Clin Oral Invest (2012) 16:333–351
+
+
+In addition, oral infection in the pathogenesis of coronary
+heart disease has been postulated to be involved at a very
+early stage of the disease [77]. As one cannot be sure about
+the true induction period, statistical methods may be used to
+estimate the most appropriate induction period [19]. This
+methodological issue, however, has not been applied yet in
+the reviewed research. Effects without appropriate allow-
+ance for the empirical induction period are underestimated
+[78]. Hence, it is not surprising that the reviewed studies
+have found, if at all, only small effects of tooth loss on
+mortality. The longer the supposed time sequence between
+the exposure and the occurrence of the outcome, the more
+crucial to analyse the empirical induction period. Under the
+assumption of an induction period of at least 5 years, a
+sample restricted to very old populations would decrease
+the statistical power because very old subjects are likely to
+die during the next 5 years [43, 44, 48, 55] before tooth loss
+may have an effect on mortality. Moreover, the accumula-
+tion of risk factors over a lengthy induction time compli-
+cates to explore whether and to what extent is death a
+consequence of oral risk factors and to identify the
+underlying pathway. To avoid a long induction period,
+intermediate stages are recommended to be observed [19].
+Assessing intermediary variables, such as change in
+inflammatory markers or gastrointestinal symptoms, may
+elucidate how much of the putative effect of tooth loss on
+mortality is carried by each pathway.
+The diversity of exposures is a further limitation to
+interpret and compare the studies. As has been discussed in
+an earlier review, misclassification of the exposure status
+can yield substantially biased parameter estimates [5]. The
+suppositious biological pathway should determine the
+exposure definition. If nutrition were assumed to be on
+the pathway, it would be more appropriate to use the
+number of unreplaced teeth as exposure of interest rather
+than the number of missing teeth. For nutrition as
+
+intermediate, it would be misleading to count the number
+of missing teeth, when subjects had the same number of
+missing teeth but different numbers of replaced teeth. In
+contrast, if the inflammatory pathway were taken, peri-
+odontal parameters or the number of missing teeth as a
+surrogate for past periodontal disease may be more suitable.
+Thereby periodontal disease should not be mixed with
+categories of tooth loss in the exposure status because the
+corresponding confounder sets may differ.
+Confounding bias may further explain the inconsistent
+patterns of the associations between mortality and the
+number of teeth, albeit only few studies lacked adjustment
+for major confounders. Smoking has considerable influence
+on the development of clinically detectable periodontitis
+[79], which eventually over a period of time leads to tooth
+loss. As smoking is also an important risk factor for all-
+cause and circulatory mortality [80], its non-consideration
+or rough classification [81, 82] may have given rise to an
+overestimation of tooth number-related effects on mortality
+in some studies [39, 41, 43, 44, 50]. Residual confounding
+because of smoking has not always been discussed [41, 43,
+44, 49, 50], although it was known that the relationship
+between periodontal and cardiovascular disease is prone to
+this major limitation [83]. Similarly, not controlling
+diabetes, body mass index or obesity as surrogates limits
+the validity of some findings [41, 43, 44, 46, 49, 50, 52, 55]
+because diabetes is an important risk factor of periodontal
+disease and strongly associated with increased mortality
+and thereby confounding the relationship between tooth
+loss and mortality [84].
+Studies examining circulatory mortality (Table 1) might
+have lacked statistical power and were expected to have
+lower validity than studies of similar size that examined
+fatal events from all causes. Nevertheless, there was a
+higher evidence for circulatory mortality compared with all-
+cause mortality, which could, on the other hand, be
+expected because circulatory diseases are linked to both
+major pathways. Moreover, the number of competing risk
+factors for circulatory mortality is smaller compared with
+those for all-cause mortality. Thus, putative effects of the
+number of teeth on circulatory mortality may be less
+attenuated.
+
+Denture use and all-cause mortality
+
+In view of the amount of research on the relation between
+tooth loss and mortality, very few [37, 38, 42, 53, 54, 58]
+involved prosthodontic aspects and, to the best of our
+knowledge, the number of unreplaced teeth has not been
+addressed in this relationship yet. Therefore, denture (non-)
+use served as a proxy for the exposure to unreplaced teeth
+in this review (Table 2). Because of low- to moderate-
+quality studies (Table 5), especially regarding confounding
+
+.5
+1
+2
+
+Hazard Ratio
+
+Fukai et al., 2008 [42]
+females
+
+Fukai et al., 2008 [42]
+males
+
+Yoshida et al., 2005 [58]
+
+pooled
+
+All-Cause Mortality
+
+Fig. 2 All-cause mortality in subjects not using dentures compared
+with denture-wearing reference subjects
+
+Clin Oral Invest (2012) 16:333–351
+347
+
+
+bias, the recommendation for a causal relationship between
+denture use and all-cause mortality is graded with level D.
+However, under the assumptions we chose for the bias
+analysis, an effect of denture use on all-cause mortality
+would be present.
+Albeit relying on moderate level of evidence from
+two studies [42, 58], findings insinuate a protective effect
+of prostheses on survival in the elderly, which seems to
+increase with decreasing number of natural teeth and is at
+least present for subjects who have lost any occlusal
+contact on natural teeth [58] or edentulous individuals
+[54].
+The same limitations as for studies on the number of
+teeth are present in studies on the exposure to denture use
+(Table 5). Particularly, lack of adjustment for SES is likely
+to bias the relationship between denture use and mortality,
+since higher income and higher educational levels may
+reduce mortality risk and privilege to get missing teeth
+replaced, at least in Western countries [29]. Additionally,
+the number of remaining natural teeth primarily determines
+the type of prosthesis and chewing ability and may,
+therefore, be a further variable that merits adjustment, as
+demonstrated by Fukai et al. [42] and supported by the
+DAG analysis (as stated above).
+Misclassification of the unexposed reference category
+[85], as for example mixing dentate individuals who do not
+need dentures and individuals with missing or no teeth who
+do not use dentures [38], two extremely different dental
+status categories implying just as different chewing ability,
+could have made it difficult to detect a cause–effect
+relationship or distorted the relationship. Ill-fitting dentures
+may evoke denture stomatitis, allowing oral microorgan-
+isms to enter the bloodstream via mucosal lesions [60, 86],
+which may represent a further pathway besides nutrition in
+which the prosthodontic status acts. None of the studies
+[37, 38, 42, 54, 58, 87], however, enhanced the specificity
+of prosthodontic exposure definitions by quality (fixed or
+removable) of prostheses.
+The majority of study participants were old (65–79 years)
+or very old (≥80 years), thereby limiting generalisability of
+the findings for younger populations. Older individuals
+may have been longer exposed to tooth loss and showing
+advanced alveolar bone resorption to the disadvantage of
+denture retention and stability and even more impaired
+chewing function [88]. For further details, please refer to
+the Supplementary discussion section of the Online
+Resource 1 on pp 5 and 6.
+
+Conclusions and recommendations for further research
+
+Given results demonstrated by well-designed studies for
+circulatory mortality and the limitations of the reviewed
+
+studies for all-cause mortality, it is open whether competing
+risks of cause-specific death other than circulatory mortality
+reduce an effect of the number of teeth on all-cause
+mortality. An effect of denture use on circulatory mortality
+remains to be established, as well as how the number of
+replaced teeth affects mortality.
+Drawing on lessons learned, we offer some constructive
+recommendations for mortality research, which may address
+essential problems of the topic of this review and beyond
+[34].
+
+1.
+Hypothesise different induction periods and reanalyse
+the data under each separate hypothesis. Define
+exposure variable dichotomously to allow combining
+the person-time of exposed subjects that is not related
+to the exposure (under the hypothesis of a specific
+induction time) with follow-up time of subjects who
+were never exposed.
+2.
+Draw samples of adults not older than 65 years.
+3.
+Assess change in exposure and use corresponding
+models with time-dependent variables.
+4.
+Define the exposure according to the hypothesised
+pathway (periodontal disease or number of unreplaced
+teeth). Avoid mixing different types of exposure
+variables and choose a valid definition of the unex-
+posed reference condition.
+5.
+Assess confounders appropriately (including smoking,
+diabetes and income, with respect to prosthodontic
+replacements); avoid prediction models.
+6.
+At least for the nutrition pathway, exclude subjects with
+history of cancer because they are likely to have
+changed dietary patterns and lost teeth.
+
+Future research on the effect of tooth loss on mortality
+can essentially benefit from sophisticated methodological
+approaches. Acknowledging the aforementioned items may
+reduce bias in the design and analysis of epidemiological
+studies and substantiate the contribution of coexisting
+causal pathways to the exposure effect. Specifying the role
+of potential pathways by which tooth loss-related mortality
+is mediated will possibly increase the value of restorative
+and periodontal interventions for general health, with regard
+to cost-effectiveness of preventive strategies for healthy
+ageing as well.
