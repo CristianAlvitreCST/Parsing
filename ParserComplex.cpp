@@ -1,7 +1,19 @@
+/* Project: Parsing
+*  Author: Cristian Alvitre
+*  Description:
+*		ParserComplex is where all "complex" functions in the project go.
+*		A complex function is defined as a function that makes use of other functions
+*	other than another version of itself within the parser library.
+*		For example, basic parser function "foo" being used in function "bar" would make bar "complex"
+*/
 #pragma once
 #include "ParserComplex.h"
 
-	//Build word list
+/* Build word lists
+*	Builds a word list based on the filename string passed to it
+*	TODO: turn these into functions based simply on their return value
+*	but I need to differentiate the first two somehow. Rename one maybe?
+*/
 void buildWordList(string filename, vector<string>& list)
 {
 	string* strPtr;
@@ -149,6 +161,12 @@ void buildWordList(string filename, vector<vector<string>>& list, char delim) { 
 	}
 }
 
+/* Parsing
+*	Functions that perform data parsing to eventually be put into a DAG
+*	TODO: Restructure these so that any boilerplate code is removed
+*	TODO: Give a better name to worldSalad
+*	TODO: stackCreation should be the last part of the process
+*/
 void wordSalad(vector<vector<string>> list, vector<vector<string>> parser, vector<vector<string>>& matches)
 {	
 	for (vector<vector<string>>::iterator listIt = list.begin(); listIt != list.end(); listIt++) {
@@ -335,6 +353,10 @@ vector<vector<string>> partition(vector<string> sentence, vector<string> con, ve
 
 	return returnMat;
 }
+
+/* Other
+*	Temporary name, but a place where oddball functions go such as those that are just barely complex functions
+*/
 void increment(vector<int>& lower, vector<int>& upper) {
 	for (int i = 0; i < lower.size(); i++) {
 		if (lower[i] < upper[i] && lowestPossible(lower, upper, i)) {
@@ -346,8 +368,6 @@ void increment(vector<int>& lower, vector<int>& upper) {
 		}
 	}
 }
-
-//Complex display functions
 void display(stack<string>& list) {
 	reverse(list);
 	while (!list.empty()) {

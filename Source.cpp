@@ -11,6 +11,7 @@ int main() {
 	wordSalad(list, parserPhrases, matches);
 	redundancyClean(matches);
 	//partition();
+	//transformToSingle();
 	stackCreation(matches, parserPhrases);
 	/*
 	wordSalad(); //find matching parsePhrases

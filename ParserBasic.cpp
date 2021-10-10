@@ -1,8 +1,6 @@
-#include "ParserBasic.h"
-/*
-* Project: Parsing
-* Author: Cristian Alvitre
-* Description:
+/* Project: Parsing
+*  Author: Cristian Alvitre
+*  Description:
 *		ParserBasic is where all "basic" functions in the project go.
 *		A basic function is defined as a function that does not make use of other functions 
 *	other than another version of itself within the library.
@@ -12,6 +10,7 @@
 *		The only exception to the above is in a case such as one present function calling another
 *	because its goal is to perform the same action with a different set of methods.
 */
+#include "ParserBasic.h"
 
 /* Informational/Relational
 *	Informational - Gives information on specific data not inherently given by the data type being passed
@@ -143,7 +142,7 @@ bool lowestPossible(vector<int> lower, vector<int> upper, int i)
 }
 
 /* Manipulators
-* Manipulators - Alters the data passed through it based on certain parameters
+*	Manipulators - Alters the data passed through it based on certain parameters
 */
 void resetCounter(vector<int>& counter, int size)
 {

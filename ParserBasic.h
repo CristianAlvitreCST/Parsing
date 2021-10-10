@@ -1,6 +1,6 @@
-/*Project: Parsing
-* Author: Cristian Alvitre
-* Description:
+/* Project: Parsing
+*  Author: Cristian Alvitre
+*  Description:
 *		ParserBasic is where all "basic" functions in the project go.
 *		A basic function is defined as a function that does not make use of other functions
 *	other than another version of itself within the library.
