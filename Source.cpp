@@ -10,6 +10,7 @@ int main() {
 	
 	wordSalad(list, parserPhrases, matches);
 	redundancyClean(matches);
+	//partition();
 	stackCreation(matches, parserPhrases);
 	/*
 	wordSalad(); //find matching parsePhrases

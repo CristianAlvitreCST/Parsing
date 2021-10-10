@@ -139,14 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Parser.cpp" />
+    <ClCompile Include="ParserBasic.cpp" />
+    <ClCompile Include="ParserComplex.cpp" />
     <ClCompile Include="ParserOld.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
+    <ClInclude Include="ParserBasic.h" />
     <ClInclude Include="ParserOld.h" />
-    <ClInclude Include="Parser.h" />
+    <ClInclude Include="ParserComplex.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
