@@ -201,17 +201,17 @@ void stackCreation(vector<vector<string>>& sentences, vector<vector<string>>& pa
 	/* REWORK
 	matrix = partition(sentences, con, stop);
 	*/
-	for (int i = 0; i < sentences.size(); i++) {
-		tempMat = partition(sentences[i], con, stop);
-		matrix.insert(matrix.end(), tempMat.begin(), tempMat.end());
-	}
-	for (int i = 0; i < matrix.size(); i++) {
-		transformToSingle(matrix[i], stop);
-	}
-
-	tempMat = matrix;
-	matrix.clear();
-	sentences = tempMat;
+	//for (int i = 0; i < sentences.size(); i++) {
+	//	tempMat = partition(sentences[i], con, stop);
+	//	matrix.insert(matrix.end(), tempMat.begin(), tempMat.end());
+	//}
+	//for (int i = 0; i < matrix.size(); i++) {
+	//	transformToSingle(matrix[i], stop);
+	//}
+	//
+	//tempMat = matrix;
+	//matrix.clear();
+	//sentences = tempMat;
 
 	//Everything below this line should be kept in stackCreation. Everything above should be put elsewhere
 	for (int i = 0; i < sentences.size(); i++) {
