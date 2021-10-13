@@ -4,7 +4,7 @@ int main() {
 	vector<vector<string>> parserPhrases;
 	vector<vector<string>> list;
 	vector<vector<string>> matches;
-	vector<vector<string>> tempMat, tempMat_2;
+	vector<vector<string>> tempMat;// , tempMat_2;
 	vector<string> ignore, stop, con;
 	
 	buildWordList("Documents/Parsing/injury patterns", parserPhrases);
@@ -15,12 +15,7 @@ int main() {
 
 	wordSalad(list, parserPhrases, matches);
 	redundancyClean(matches);
-
-	for (int i = 0; i < matches.size(); i++) {
-		tempMat = partition(matches[i], con, stop);
-		tempMat_2.insert(tempMat_2.end(), tempMat.begin(), tempMat.end());
-	}
-	matches = tempMat_2;
+	matches = partition(matches, con, stop);
 	display(matches);
 
 	//transformToSingle();

@@ -1,0 +1,19 @@
+ttr (time to return) - The time it takes from execution for the program to reach return 0 in main
+
+Current objectives:
+[]		1. Please read at least 5 papers from the NAACL student workshop proceedings.
+		https://aclanthology.org/2021.naacl-srw.pdf  
+		Summarize and compare and contrast with your work(3 sentences per paper)
+[]		2. Start writing up your work- aim for a 2 page draft paper that we can expand later.
+[]		3. Generate results from a different paper than the one you have been working on.
+[*]		4. Continue to clean up code, and try to quantify your progress.
+[*]		5. Continue to improve results and document progress.
+
+Test 1
+302ms
+211ms
+216ms
+216ms
+213ms
+
+Test 2

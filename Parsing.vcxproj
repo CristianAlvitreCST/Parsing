@@ -141,13 +141,11 @@
   <ItemGroup>
     <ClCompile Include="ParserBasic.cpp" />
     <ClCompile Include="ParserComplex.cpp" />
-    <ClCompile Include="ParserOld.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
     <ClInclude Include="ParserBasic.h" />
-    <ClInclude Include="ParserOld.h" />
     <ClInclude Include="ParserComplex.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

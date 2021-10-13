@@ -185,7 +185,7 @@ void wordSalad(vector<vector<string>> list, vector<vector<string>> parser, vecto
 	}
 }
 void stackCreation(vector<vector<string>>& sentences, vector<vector<string>>& parser) {
-	vector<vector<string>> matrix, tempMat;
+	vector<vector<string>> matrix;
 	stack<string> theStack;
 	vector<string> ignore, stop, con, tempVec; //Ignore for words to move past, stop for words to trigger a stop
 	string tempStr;
@@ -195,23 +195,6 @@ void stackCreation(vector<vector<string>>& sentences, vector<vector<string>>& pa
 	buildWordList("Documents/Parsing/ignore", ignore);
 	buildWordList("Documents/Parsing/stop", stop);
 	buildWordList("Documents/Parsing/conjunctional", con);
-
-	//TODO: make partition take the whole matrix and return the complete list instead
-	//In other words, put the for loop and insertion on the inside of the function.
-	/* REWORK
-	matrix = partition(sentences, con, stop);
-	*/
-	//for (int i = 0; i < sentences.size(); i++) {
-	//	tempMat = partition(sentences[i], con, stop);
-	//	matrix.insert(matrix.end(), tempMat.begin(), tempMat.end());
-	//}
-	//for (int i = 0; i < matrix.size(); i++) {
-	//	transformToSingle(matrix[i], stop);
-	//}
-	//
-	//tempMat = matrix;
-	//matrix.clear();
-	//sentences = tempMat;
 
 	//Everything below this line should be kept in stackCreation. Everything above should be put elsewhere
 	for (int i = 0; i < sentences.size(); i++) {
@@ -293,6 +276,14 @@ vector<vector<string>> transformToSingle(vector<string> list, vector<string> ide
 	}
 
 	return returnMatrix;
+}
+vector<vector<string>> partition(vector<vector<string>> sentences, vector<string> con, vector<string> split) {
+	vector<vector<string>> tempMat, returnMat;
+	for (int i = 0; i < sentences.size(); i++) {
+		tempMat = partition(sentences[i], con, split);
+		returnMat.insert(returnMat.end(), tempMat.begin(), tempMat.end());
+	}
+	return returnMat;
 }
 vector<vector<string>> partition(vector<string> sentence, vector<string> con, vector<string> split) {
 	vector<int> tracker, counter; //Tracker is set to the size of the partitions in the matrix, counter keeps track and is always less than tracker

@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Parsing", "Parsing.vcxproj", "{DA32E248-484F-4970-A02C-DCA62F44F4DD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4379A5CF-ACDD-49BA-B758-CEFDFD49C1A3}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\ManualLog.txt = Documents\ManualLog.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

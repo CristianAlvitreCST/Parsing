@@ -32,6 +32,7 @@ void wordSalad(vector<vector<string>> list, vector<vector<string>> parser, vecto
 	//redundancyClean - compare sentnces in a list and find if any of them are a complete match. If so, delete the later one
 void redundancyClean(vector<vector<string>>& listA);
 	//partition - detect forked pathway relationships and turn them into several singular pathed relationships
+vector<vector<string>> partition(vector<vector<string>> sentences, vector<string> con, vector<string> split);
 vector<vector<string>> partition(vector<string> sentence, vector<string> con, vector<string> split);
 	//transformToSingle - Take relationships with more than two nodes (ex: x->y->x) and turn them into several l/r relationships
 vector<vector<string>> transformToSingle(vector<string> list, vector<string> identifiers);
